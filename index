@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YouTube新着動画 自動プレイリスト追加ツール</title>
+</head>
+<body>
+<h1>YouTube新着動画 自動プレイリスト追加ツール</h1>
+<p>このツールは、作成者本人が個人的に利用するためのアプリです。</p>
+<p>お気に入りのYouTubeチャンネルに新しい動画が投稿されると、Google Apps Scriptを使って自動的に指定のプレイリストへ追加します。</p>
+<p>一般公開や第三者への提供は行っていません。</p>
+<p><a href="privacy.html">プライバシーポリシー</a></p>
+</body>
+</html>
